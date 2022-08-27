@@ -34,7 +34,7 @@ LC-MS data must be in mzML format.
 
 ### Step 3. Extract signals
 
-In the report table of metabolomic, to double click the quantity value under the sample name.
+Double click the quantity value under the sample name from metabolomic report table.
 
-In the report table of proteomic, to double click the spectrum data of interest.
+Double click the spectrum data of interest from proteomic report table.
 
