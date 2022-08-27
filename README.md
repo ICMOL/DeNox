@@ -17,7 +17,7 @@ LC-MS data must be in mzML format.
 
 - Report file parameter
 
-  Report file has two parameter: m/z and retention time: In **metabolomic**, they must name as **mass_to_charge** and **retention_time** respectively. In proteomic, they must name as **Retention** and **Observed M/Z** respectively.
+  Report file has two parameter: m/z and retention time: In **metabolomic**, they must name as **mass_to_charge** and **retention_time** respectively. In **proteomic**, they must name as **Retention** and **Observed M/Z** respectively.
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/input.png">
 
