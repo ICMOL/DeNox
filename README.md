@@ -4,7 +4,9 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ## How to Use
 
-To extract signals of interest from LC-MS data, DeNox requires report file (In metabolomic, e.g., i-MetQ, XCMS) or an identification result (In proteomic, e.g., MSFragger) as input file.
+### Input Files
+* A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS
+* Raw data in mzML file format
 
 ### System Requirement
 
