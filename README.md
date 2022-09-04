@@ -13,7 +13,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 是否需要安裝 JRE?
 
 
-### Step 1. Choose source for LC-MS data
+### Step 1. Choose the source of LC-MS data
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/source.png">
 
