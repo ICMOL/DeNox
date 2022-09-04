@@ -6,7 +6,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ### Input Files
 * A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS
-* Raw data in mzML file format
+* Raw data in **mzML file format**
 
 ### System Requirement
 
@@ -17,13 +17,11 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/source.png">
 
-### Step 2. Load input file
-
-LC-MS data must be in mzML format.
+### Step 2. Load the input files
 
 - Report file parameter
 
-  Report file has two parameter: m/z and retention time: In **metabolomic**, they must name as **mass_to_charge** and **retention_time** respectively. In **proteomic**, they must name as **Observed M/Z** and **Retention** respectively.
+  DeNox needs two parameters (m/z and retention time) to extract signals from LC-MS data. For metabolomics, the two parameters must be named as **mass_to_charge** and **retention_time**. For proteomics, they must be named as **Observed M/Z** and **Retention**. Please note that the unit of retention time is minute. (retention time 的單位是分鐘,對嗎？）
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/input.png">
 
@@ -38,8 +36,9 @@ LC-MS data must be in mzML format.
 <img src="https://github.com/ICMOL/DeNox/blob/main/options.png">
 
 
-### Step 3. Extract signals
+### Step 3. Display the figures
 
+(這邊能夠加入軟體介面嗎?)
 Double click the quantity value under the sample name from metabolomic report table.
 
 Double click the spectrum data of interest from proteomic report table.
