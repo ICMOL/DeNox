@@ -21,7 +21,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 - Report file parameter
 
-  DeNox needs two parameters (m/z and retention time) to extract signals from LC-MS data. For metabolomics, the two parameters must be named as **mass_to_charge** and **retention_time**. For proteomics, they must be named as **Observed M/Z** and **Retention**. Please note that the unit of retention time is minute. (retention time 的單位是分鐘,對嗎？）
+  DeNox needs two parameters (m/z and retention time) to extract signals from LC-MS data. For metabolomics, the two parameters must be named as **mass_to_charge** and **retention_time**. For proteomics, they must be named as **Observed M/Z** and **Retention**. Please note that the unit of retention time is minute.
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/input.png">
 
