@@ -38,7 +38,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ### Step 3. Display the figures
 
-(這邊能夠加入軟體介面嗎?)
+<img src="https://github.com/ICMOL/DeNox/blob/main/display.png">
 Double click the quantity value under the sample name from metabolomic report table.
 
 Double click the spectrum data of interest from proteomic report table.
