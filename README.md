@@ -30,7 +30,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 |        Name         |  Default Value | Comments |
 |---------------------|----------------|------------------------------|
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
-| M/Z tolerance(ppm)  | 0.03           | the tolerance of mass to charge (unit: ppm) |
+| M/Z tolerance(Da.)  | 0.03           | the tolerance of mass to charge (unit: Dalton) |
 | Image filter        | black          | heatmap background color |
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/options.png">
