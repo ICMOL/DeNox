@@ -37,9 +37,8 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 
 ### Step 3. Display the figures
+One can double click a row (for proteomic PSM tables) or a cell (for metabolomic reports) to display the figures.
 
 <img src="https://github.com/ICMOL/DeNox/blob/main/display.png">
-Double click the quantity value under the sample name from metabolomic report table.
 
-Double click the spectrum data of interest from proteomic report table.
 
