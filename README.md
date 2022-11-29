@@ -32,12 +32,11 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
 | Image filter        | black          | heatmap background color |
 
-<img src="https://github.com/ICMOL/DeNox/blob/main/options.png">
+
 
 
 ### Step 3. Display the figures
 One can double click a row (for proteomic PSM tables) or a cell (for metabolomic reports) to display the figures.
 
-<img src="https://github.com/ICMOL/DeNox/blob/main/display.png">
 
 
