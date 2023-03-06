@@ -20,6 +20,8 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 3. m/z Column Name: mass to charge of column name in report file
 4. RT Column Name: retention time of column name in report file
 5. RT tolerance(min.)
+
+
 |        Name         |  Default Value | Comments |
 |---------------------|----------------|------------------------------|
 | Source              | proteomics/metabolomics | analytical sources for proteomics/metabolomics|
