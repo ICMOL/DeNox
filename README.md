@@ -13,26 +13,20 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 - [Java SE Runtime Environment 11(or above)](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) is required to be installed prior to use DeNox. 
 
 
-### Step 1. Choose the source of LC-MS data
+### Step 1. Set parameter
 
-<img src="https://github.com/ICMOL/DeNox/blob/main/source.png">
-
-### Step 2. Load the input files
-
-- Report file parameter
-
-  DeNox needs two parameters (m/z and retention time) to extract signals from LC-MS data. For metabolomics, the two parameters must be named as **mass_to_charge** and **retention_time**. For proteomics, they must be named as **Observed M/Z** and **Retention**. Please note that the unit of retention time is minute.
-
-<img src="https://github.com/ICMOL/DeNox/blob/main/input.png">
-
-- Advanced options
-
+1. Source: analytical sources for proteomics/metabolomics
+2. Time Unit: time unit of report file
+3. m/z Column Name: mass to charge of column name in report file
+4. RT Column Name: retention time of column name in report file
+5. RT tolerance(min.)
 |        Name         |  Default Value | Comments |
 |---------------------|----------------|------------------------------|
+| Source              | proteomics/metabolomics | analytical sources for proteomics/metabolomics
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
 | Image filter        | black          | heatmap background color |
 
-<img src="https://github.com/ICMOL/DeNox/blob/main/options.png">
+
 
 ### Step 3. Display the figures
 One can double click a row (for proteomic PSM tables) or a cell (for metabolomic reports) to display the figures.
