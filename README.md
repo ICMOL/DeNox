@@ -46,4 +46,4 @@ Spectrum Information: m/z vs. intensity
 
 These metrics are used to quantify the overall peak shape and retention time consistency between samples.
  
-![image](https://github.com/ICMOL/DeNox/blob/main/images/output.PNG")
+![image](https://github.com/ICMOL/DeNox/blob/main/images/output.PNG)
