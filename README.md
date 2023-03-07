@@ -26,7 +26,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ### Step 2. Import Report file and Raw file
 
-Report file: Accepts files from any quantitative tool (foramt: .csv/ .tsv)
-Raw file : LC-MS data (format: .mzML)
+* Report file: Accepts files from any quantitative tool (foramt: .csv/ .tsv)
+* Raw file : LC-MS data (format: .mzML)
 
 
