@@ -4,10 +4,6 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ## How to Use
 
-### Input Files
-* A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS
-* Raw data in **mzML file format**
-
 ### System Requirement
 
 - [Java SE Runtime Environment 11(or above)](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) is required to be installed prior to use DeNox. 
@@ -24,9 +20,19 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 | RT Column Name      | user-defind    | retention time of column name in report file |
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
 
-### Step 2. Import Report file and Raw file
+### Step 2. Input Files
 
-* Report file: Accepts files from any quantitative tool (foramt: .csv/ .tsv)
-* Raw file : LC-MS data (format: .mzML)
+* A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS **csv/tsv file format**
+* Raw data in **mzML file format**
 
+### Step 3-1. Display figures
 
+#### Raw data visualization
+
+* **Elution heatmap:** m/z vs. retention time
+* **Extracted ion chromatogram:** retention time vs. intensity
+* **Spectrum Information:** m/z vs. intensity
+
+#### Peak Quality Assessments
+
+These metrics are used to quantify the overall peak shape and retention time consistency between samples.
