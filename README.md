@@ -29,9 +29,9 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 * Raw data visualization
 
-* **Elution heatmap:** m/z vs. retention time
-* **Extracted ion chromatogram:** retention time vs. intensity
-* **Spectrum Information:** m/z vs. intensity
+**Elution heatmap:** m/z vs. retention time
+**Extracted ion chromatogram:** retention time vs. intensity
+**Spectrum Information:** m/z vs. intensity
 
 * Peak Quality Assessments
 
