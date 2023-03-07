@@ -27,14 +27,14 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ### Step 3. Display figures
 
-* Raw data visualization
+#### Raw data visualization
 
-**Elution heatmap:** m/z vs. retention time
+Elution heatmap: m/z vs. retention time
 
-**Extracted ion chromatogram:** retention time vs. intensity
+Extracted ion chromatogram: retention time vs. intensity
 
-**Spectrum Information:** m/z vs. intensity
+Spectrum Information: m/z vs. intensity
 
-* Peak Quality Assessments
+#### Peak Quality Assessments
 
 These metrics are used to quantify the overall peak shape and retention time consistency between samples.
