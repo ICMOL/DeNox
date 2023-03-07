@@ -23,12 +23,14 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 | RT Column Name      | user-defind    | retention time of column name in report file |
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
 
-<src="https://github.com/ICMOL/DeNox/blob/main/images/settings.png">  
- 
+
 ### Step 2. Input Files
 
 * A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS **csv/tsv file format**
 * Raw data in **mzML file format**
+
+<img src="https://github.com/ICMOL/DeNox/blob/main/images/input.png"> 
+ 
 
 ### Step 3. Display figures
 
@@ -43,3 +45,5 @@ Spectrum Information: m/z vs. intensity
 #### Peak Quality Assessments
 
 These metrics are used to quantify the overall peak shape and retention time consistency between samples.
+ 
+<img src="https://github.com/ICMOL/DeNox/blob/main/images/output.png">
