@@ -13,22 +13,18 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 - [Java SE Runtime Environment 11(or above)](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) is required to be installed prior to use DeNox. 
 
 
-### Step 1. Set parameter
-
-1. Source: analytical sources for proteomics/metabolomics
-2. Time Unit: time unit of report file
-3. m/z Column Name: mass to charge of column name in report file
-4. RT Column Name: retention time of column name in report file
-5. RT tolerance(min.)
+### Step 1. Set parameter and choose
 
 
 |        Name         |  Default Value | Comments |
 |---------------------|----------------|------------------------------|
 | Source              | proteomics or metabolomics | the analytical sources for proteomics/metabolomics |
 | TIme Unit           | min. or sec.   | the time unit of report file |
-| M/Z Column Name     | user-defind    | mass to charge of column name in report file |
+| m/z Column Name     | user-defind    | mass to charge of column name in report file |
 | RT Column Name      | user-defind    | retention time of column name in report file |
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
 
-### Step 2. Display the figures
+### Step 2. Import report file and raw file
+
+
 
