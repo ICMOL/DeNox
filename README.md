@@ -29,7 +29,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 * A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS **csv/tsv file format**
 * Raw data in **mzML file format**
 
-![image](https://github.com/ICMOL/DeNox/blob/main/images/input.png")
+![image](https://github.com/ICMOL/DeNox/blob/main/images/input.PNG")
  
 
 ### Step 3. Display figures
@@ -46,4 +46,4 @@ Spectrum Information: m/z vs. intensity
 
 These metrics are used to quantify the overall peak shape and retention time consistency between samples.
  
-![image](https://github.com/ICMOL/DeNox/blob/main/images/output.png")
+![image](https://github.com/ICMOL/DeNox/blob/main/images/output.PNG")
