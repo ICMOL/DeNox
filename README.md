@@ -24,7 +24,9 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 | RT Column Name      | user-defind    | retention time of column name in report file |
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
 
-### Step 2. Import report file and raw file
+### Step 2. Import Report file and Raw file
 
+Report file: Accepts files from any quantitative tool (foramt: .csv/ .tsv)
+Raw file : LC-MS data (format: .mzML)
 
 
