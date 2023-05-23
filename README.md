@@ -9,7 +9,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 
 ### System Requirement
 
-- [Java SE Runtime Environment 8(or above)](https://www.oracle.com/tw/java/technologies/javase/javase8-archive-downloads.html) is required to be installed prior to use DeNox. 
+- [Java SE Development Kit 11(or above)](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html) is required to be installed prior to use DeNox. 
 
 
 ### Step 1. Set parameter and choose
