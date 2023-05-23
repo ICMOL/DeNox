@@ -19,14 +19,15 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 |---------------------|----------------|------------------------------|
 | Source              | proteomics or metabolomics | the analytical sources for proteomics/metabolomics |
 | TIme Unit           | min. or sec.   | the time unit of report file |
-| m/z Column Name     | user-defind    | mass to charge of column name in report file |
+| m/z Column Name     | user-defind    | mass-to-charge of column name in report file |
 | RT Column Name      | user-defind    | retention time of column name in report file |
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
-
+| lower m/z (Da)      | 1              | the lower limit of the mass-to-charge ratio, in DA |
+| upper m/z (Da)      | 3              | the upper limit of the mass-to-charge ratio, in DA |
 
 ### Step 2. Input Files
 
-* A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS in **csv/tsv file format**
+* A feature table, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS in **csv/tsv file format**
 * Raw data in **mzML file format**
 
 ![image](https://github.com/ICMOL/DeNox/blob/main/images/input.PNG)
@@ -44,6 +45,6 @@ Spectrum Information: m/z vs. intensity
 
 #### Peak Quality Assessments
 
-These metrics are used to quantify the overall peak shape and retention time consistency between samples.
+These measures are used to quantify the overall peak shape and retention time consistency between samples.
  
 ![image](https://github.com/ICMOL/DeNox/blob/main/images/output.PNG)
