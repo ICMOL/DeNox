@@ -22,8 +22,8 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 | m/z Column Name     | user-defind    | mass-to-charge of column name in report file |
 | RT Column Name      | user-defind    | retention time of column name in report file |
 | RT tolerance(min.)  | 0.5            | the tolerance of retention time (unit: minutes) |
-| lower m/z (Da)      | 1              | the lower limit of the mass-to-charge ratio, in DA |
-| upper m/z (Da)      | 3              | the upper limit of the mass-to-charge ratio, in DA |
+| lower m/z (Da)      | 1              | the lower limit of the mass-to-charge ratio (unit: dalton) |
+| upper m/z (Da)      | 3              | the upper limit of the mass-to-charge ratio (unit: dalton) |
 
 ### Step 2. Input Files
 
