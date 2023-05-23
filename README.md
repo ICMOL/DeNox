@@ -29,7 +29,7 @@ Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) has becom
 * A report file, e.g., a PSM table from FragPipe or a metabolite quantitation file from iMet-Q or XCMS in **csv/tsv file format**
 * Raw data in **mzML file format**
 
-![image](https://github.com/ICMOL/DeNox/blob/main/images/input.PNG)
+![image](https://github.com/ICMOL/DeNox/blob/main/images/setting.PNG)
  
 
 ### Step 3. Display figures
