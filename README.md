@@ -29,9 +29,7 @@ Download the latest DeNox JAR file, executing through the user interface.
 * A metrics list, users can obtain from [MS-Aligner](https://github.com/ICMOL/MS-Aligner.git).
 * Raw data in **mzML file format**
 
-<div align=center><img width="227" height="539" src="https://github.com/ICMOL/DeNox/blob/main/images/input_new.png"><div>
 
-<div align=left> 
 
 ### Step 4. Display 
 
@@ -57,7 +55,7 @@ The distribution of nine peak quality assessment metrics allows users to observe
 
 (Detailed information of peak quality score and the metrics can be viewed in [MS-Point](https://github.com/ICMOL/MS-Point.git))
  
-![image](https://github.com/ICMOL/DeNox/blob/main/images/DeNox.png)
+![image](https://github.com/ICMOL/DeNox/blob/main/images/DeNox_new.png)
 
 https://github.com/ICMOL/DeNox/assets/86774336/0aff22f3-b249-4cfc-9754-21a90176b69d
 
