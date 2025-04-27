@@ -34,8 +34,7 @@ Download the latest DeNox JAR file, executing through the user interface.
 ### Step 4. Display 
 
 #### Feature table
-Users can view the following information by selecting the abundance of the feature you wish to inspect from the feature table.  
-For metabolomics data, it provides a peak quality score ranging from -1 to 1. The closer the score is to 1, the better the peak quality. When the score is above 0.8, it is highlighted in green; conversely, if it is below -0.8, it is highlighted in red.
+Users can view the following information by selecting the abundance of the feature you wish to inspect from the feature table. For metabolomics data, it provides a peak quality score ranging from -1 to 1. The closer the score is to 1, the better the peak quality. When the score is above 0.8, it is highlighted in green; conversely, if it is below -0.8, it is highlighted in red.
 
 #### Raw data visualization
 
