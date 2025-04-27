@@ -57,7 +57,6 @@ The distribution of nine peak quality assessment metrics allows users to observe
  
 ![image](https://github.com/ICMOL/DeNox/blob/main/images/DeNox_new.png)
 
-https://github.com/ICMOL/DeNox/assets/86774336/0aff22f3-b249-4cfc-9754-21a90176b69d
 
 
 
