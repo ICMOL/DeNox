@@ -57,6 +57,9 @@ The distribution of nine peak quality assessment metrics allows users to observe
 ![image](https://github.com/ICMOL/DeNox/blob/main/images/DeNox_new.png)
 
 
+# Where to Download
+Please go to the **[Releases page](https://github.com/ICMOL/DeNox/releases)** to download the software.
+
 
 # Data for Test
 * [a standard metabolite mixture](https://github.com/ICMOL/DeNox/releases/tag/v1.0.0)
